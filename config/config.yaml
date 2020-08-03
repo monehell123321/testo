@@ -1,0 +1,8 @@
+token: 
+constants:
+  pokecordid: "365975655608745985"
+  language: EN
+  first: true
+version: 2.3.0
+session:
+  guilds:
